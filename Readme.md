@@ -33,7 +33,7 @@ Goexpert postgraduation project
 
 ## How to run
 
-Create `.env` and set `AUCTION_EXPIRE=`
+Set `AUCTION_EXPIRE=` at `cmd/auction`
 
 Run `docker-compose up --build -d` or `make up`
 
